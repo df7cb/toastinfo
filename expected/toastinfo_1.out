@@ -38,6 +38,7 @@ CREATE TABLE t (
        a text,
        b text
 );
+SET default_toast_compression = pglz;
 INSERT INTO t VALUES ('null', NULL);
 INSERT INTO t VALUES ('default', 'default');
 ALTER TABLE t ALTER COLUMN b SET STORAGE EXTERNAL;

@@ -32,6 +32,8 @@ CREATE TABLE t (
        b text
 );
 
+SET default_toast_compression = pglz;
+
 INSERT INTO t VALUES ('null', NULL);
 INSERT INTO t VALUES ('default', 'default');
 

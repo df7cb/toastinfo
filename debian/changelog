@@ -1,3 +1,9 @@
+toastinfo (1.6-1) unstable; urgency=medium
+
+  * Support PostgreSQL 19: default toast compression is lz4 now.
+
+ -- Christoph Berg <myon@debian.org>  Tue, 02 Jun 2026 22:56:57 +0200
+
 toastinfo (1.5-3) unstable; urgency=medium
 
   * Upload for PostgreSQL 18. (Closes: #1117343)
