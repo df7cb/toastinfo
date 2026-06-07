@@ -1,3 +1,9 @@
+toastinfo (1.7-1) unstable; urgency=medium
+
+  * New upstream version 1.7.
+
+ -- Christoph Berg <myon@debian.org>  Mon, 08 Jun 2026 00:01:01 +0200
+
 toastinfo (1.6-1) unstable; urgency=medium
 
   * Support PostgreSQL 19: default toast compression is lz4 now.
