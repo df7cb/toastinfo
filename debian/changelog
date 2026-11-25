@@ -1,3 +1,10 @@
+toastinfo (1.7-2) unstable; urgency=medium
+
+  * Upload for PostgreSQL 19.
+  * Copyright overhaul.
+
+ -- Christoph Berg <myon@debian.org>  Wed, 25 Nov 2026 19:39:47 +0100
+
 toastinfo (1.7-1) unstable; urgency=medium
 
   * New upstream version 1.7.

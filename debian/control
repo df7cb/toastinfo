@@ -14,7 +14,7 @@ Homepage: https://github.com/df7cb/toastinfo
 Vcs-Browser: https://github.com/df7cb/toastinfo
 Vcs-Git: https://github.com/df7cb/toastinfo.git
 
-Package: postgresql-18-toastinfo
+Package: postgresql-19-toastinfo
 Architecture: any
 Depends:
  ${misc:Depends},
